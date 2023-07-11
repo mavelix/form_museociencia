@@ -1,2 +1,2 @@
 # test_form_museociencia
-Este ejercicio es un formulario básico adecuado con especificaciones del framework Tailwind
+Este ejercicio es un formulario básico en linea al framework Tailwind
